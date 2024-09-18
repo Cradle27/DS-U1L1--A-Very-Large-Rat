@@ -16,7 +16,7 @@ GENERATIONS_PER_YEAR = 10   # How many generations are created each year
 GENERATION_LIMIT = 500      # Generational cutoff - stop breeded no matter what
 
 def calculate_weight(sex, mother, father):
-  '''Generate the weight of a single rat'''
+  
   
   
   # Use the triangular function from the random library to skew the 
